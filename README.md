@@ -1,7 +1,7 @@
 # NetflixRecommendation
 
 - DATA: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies/data
--This data set was created to list all shows available on Netflix streaming, and analyze the data to find interesting facts. This data was acquired in July 2022 containing data available in the United States
+- This data set was created to list all shows available on Netflix streaming, and analyze the data to find interesting facts. This data was acquired in July 2022 containing data available in the United States
 ## Tasks
 - Developing a content-based recommender system using the imdb_score and tmdb_popularity
 - Identifying the main content available on the streamings
